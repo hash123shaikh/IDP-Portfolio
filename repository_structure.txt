@@ -1,0 +1,15 @@
+IDP-Portfolio/
+├── CHANGELOG.md
+├── IDPs
+│   ├── 2024
+│   │   └── HASAN_IDP_2024.docx
+│   ├── 2026
+│   │   └── HASAN_IDP_2026.docx
+├── QUICK_START.md
+├── README.md
+├── repository_structure.txt
+├── resources
+│   ├── mentoring_guidelines.md
+│   ├── update_checklist.md
+├── templates
+│   ├── UW_IDP_Guide.pdf
